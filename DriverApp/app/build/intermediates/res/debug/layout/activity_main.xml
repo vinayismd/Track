@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+     android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+<!--  <TextView
+        android:textSize="25dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What is your bus no?" />
+<EditText android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/et3"/>-->
+    <TextView
+        android:textSize="25dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Present location is" />
+    
+    <TextView
+         android:textSize="20dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Latitude: " />
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/et1"/>
+    <TextView
+         android:textSize="20dip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Longitude:" />
+<TextView android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:id="@+id/et2"/>
+
+</LinearLayout>
+
+<!-- From: file:/C:/Users/LENOVO/AndroidStudioProjects/DriverApp/app/src/main/res/layout/activity_main.xml -->

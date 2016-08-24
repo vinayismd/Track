@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-1074cc2a71023a351484b16e8f5e767f9f83e8ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\libs\volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\build\intermediates\pre-dexed\debug\volley-3e5b825fdfb399d39e45c51dff7a992de75bb52d.jar" />
+    </item>
+    <item
+        jar="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\build\intermediates\pre-dexed\debug\classes-4ee4e3a100dac66e58671f7758996b4b678c9bdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\build\intermediates\pre-dexed\debug\gson-2.2.4-1536b2180be65ac2f9f23dae780256fee84c6dd9.jar" />
+    </item>
+    <item
+        jar="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\libs\GenAsync.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\build\intermediates\pre-dexed\debug\GenAsync.1.2-ef46ab21ba2095bc06b65ae3ad7d833ccff09e98.jar" />
+    </item>
+    <item
+        jar="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\libs\KGJsonConverter.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\build\intermediates\pre-dexed\debug\KGJsonConverter-ed972fbe18f5dbf72d02fe0d7383c4db32f50d01.jar" />
+    </item>
+    <item
+        jar="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\build\intermediates\pre-dexed\debug\classes-65d96a21a38f6d6936f3685d22df09a892a87bfc.jar" />
+    </item>
+    <item
+        jar="C:\Users\LENOVO\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\LENOVO\AndroidStudioProjects\DriverApp\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-2bf84edbdb4535596549546829f06b4435b08dcc.jar" />
+    </item>
+
+</items>
